@@ -1,0 +1,27 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 28
+/svn/proj/ksteam07/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/proj/ksteam07/!svn/ver/4/hotoveReseni/XSECA00HraServer
+END
+application.log
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/proj/ksteam07/!svn/ver/5/hotoveReseni/XSECA00HraServer/application.log
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/proj/ksteam07/!svn/ver/4/hotoveReseni/XSECA00HraServer/build.xml
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/proj/ksteam07/!svn/ver/4/hotoveReseni/XSECA00HraServer/manifest.mf
+END

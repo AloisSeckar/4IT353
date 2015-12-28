@@ -1,0 +1,6 @@
+2012-05-21 00:15:01,203 0     INFO  [root] (RED:) Handled client request: C_LOGIN XSECA00 Player
+2012-05-21 00:15:47,236 46033 INFO  [root] (BLUE:) Handled client request: C_LOGIN XSECA00 Player
+2012-05-21 00:16:06,047 64844 INFO  [root] (RED:) Handled client request: C_MOVE 8 3 0 8 4 0
+2012-05-21 00:16:44,346 103143 INFO  [root] (BLUE:) Handled client request: C_MOVE 0 7 5 5 2 1
+2012-05-21 00:16:48,586 107383 INFO  [root] (RED:) Handled client request: C_MOVE 1 5 5 9 1 2
+2012-05-21 00:16:52,696 111493 INFO  [root] (BLUE:) Handled client request: C_MOVE 2 7 1 5 3 3
